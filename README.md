@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dfacode
+- 👋 Hi, I’m @dfacode / SAP ABAP HCM Consultant for +15 years
 - 👀 I’m interested in SAP ABAP HCM / Fiori / Python
 - 🌱 I’m currently learning about new SAP Technologies
 - 💞️ I’m looking to collaborate on SAP Projects

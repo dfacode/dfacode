@@ -2,4 +2,3 @@
 - 👀 I’m interested in SAP ABAP HCM / Fiori / Python
 - 🌱 I’m currently learning about new SAP Technologies
 - 💞️ I’m looking to collaborate on SAP Projects
-- 📫 How to reach me: @alves_diogo
